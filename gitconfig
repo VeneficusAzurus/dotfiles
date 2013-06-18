@@ -1,6 +1,6 @@
 [user]
-  email = ryan@mcgeary.org
-  name = Ryan McGeary
+  email = forrestccinelli.gmail.com
+  name = Forrest Cinelli
 [alias]
   co = checkout
   st = status
@@ -22,11 +22,11 @@
 [remote "origin"]
   push = HEAD
 [github]
-  user = rmm5t
+  user = VeneficusAzurus
 [diff]
   ignoresubmodules = untracked
 [core]
-  excludesfile = /Users/rmcgeary/.gitignore
+  excludesfile = /Users/fcinelli/.gitignore
 [heroku]
   account = personal
 [pull]
